@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MattBourgeois
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a budget program
 - 📫 How to reach me Bourgeoismatthew6@gmail.com
 
 <!---
