@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MattBourgeois
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in getting a job!
+- 🌱 I’m currently learning Pandas in Python
 - 📫 How to reach me Bourgeoismatthew6@gmail.com
 
 <!---
