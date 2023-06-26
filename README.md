@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @MattBourgeois
-- 👀 I’m interested in getting a job!
-- 🌱 I’m currently learning PyGame in Python
+Hello, My name is Matthew Bourgeois, I am currently learning Java!, I am having a blast with it and learning pushing code as I learn!
+I currently know Python, MySQL, HTML, CSS, and Flask if anyone wants to reach out anf collaborate on a project let me know!
 - 📫 How to reach me Bourgeoismatthew6@gmail.com
 
 <!---
