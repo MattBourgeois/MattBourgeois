@@ -1,5 +1,4 @@
-Hello, My name is Matthew Bourgeois, I am currently learning Java!, I am having a blast with it and learning pushing code as I learn!
-I currently know Python, MySQL, HTML, CSS, and Flask if anyone wants to reach out anf collaborate on a project let me know!
+Hello, My name is Matthew Bourgeois, I am currently learning Pandas and MatPlotlib, I am looking into Data Anylitcs field! if anyone wants to collaborate let me know!!!
 - 📫 How to reach me Bourgeoismatthew6@gmail.com
 
 <!---
